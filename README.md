@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![fuyar's 42 stats](https://badge.mediaplus.ma/black/fuyar)](https://github.com/oakoudad/badge42)
 
 
