@@ -14,5 +14,3 @@ Hi 👋 My name is Furkan
 <a href="https://github.com/furkanpz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanpz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![fuyar's 42 stats](https://badge.mediaplus.ma/kettlebells/fuyar?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-![](https://komarev.com/ghpvc/?username=furkanpz&style=for-the-badge)
