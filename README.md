@@ -24,5 +24,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanpz&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/furkanpz/count.svg?" alt="visitors count" />
 
